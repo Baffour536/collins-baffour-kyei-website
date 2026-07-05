@@ -1,0 +1,108 @@
+{
+  "version": "2026.07.1",
+  "level_code_legend": {
+    "1": "First Year",
+    "2": "Second Year",
+    "3": "Third Year",
+    "4": "Fourth Year",
+    "8": "Postgraduate"
+  },
+  "courses": [
+    {
+      "slug": "eco107",
+      "code": "ECO 107",
+      "title": "Introduction to Computing for Social Scientists",
+      "level": "1",
+      "level_name": "First Year",
+      "role": "Course Instructor",
+      "period": "Undergraduate \u00b7 Three hours per week",
+      "page": "course-eco107.html",
+      "resource_root": "assets/courses/eco107/",
+      "outline": "assets/docs/course-outlines/ECO107_Introduction_to_Computing_for_Social_Scientists_Course_Outline.docx"
+    },
+    {
+      "slug": "ecf206",
+      "code": "ECF 206",
+      "title": "Computer Applications for Financial Economists",
+      "level": "2",
+      "level_name": "Second Year",
+      "role": "Teaching portfolio course",
+      "period": "Undergraduate \u00b7 Second Year",
+      "page": "course-ecf206.html",
+      "resource_root": "assets/courses/ecf206/",
+      "outline": null
+    },
+    {
+      "slug": "est206",
+      "code": "EST 206",
+      "title": "Intermediating Computing for Social Scientists",
+      "level": "2",
+      "level_name": "Second Year",
+      "role": "Graduate Assistant",
+      "period": "2025/2026 Academic Year \u00b7 Second Semester",
+      "page": "course-est206.html",
+      "resource_root": "assets/courses/est206/",
+      "outline": "assets/docs/course-outlines/EST206_Intermediating_Computing_for_Social_Scientists_Course_Outline.docx"
+    },
+    {
+      "slug": "eco305",
+      "code": "ECO 305",
+      "title": "Project Appraisal I",
+      "level": "3",
+      "level_name": "Third Year",
+      "role": "Teaching portfolio course",
+      "period": "Undergraduate \u00b7 Third Year",
+      "page": "course-eco305.html",
+      "resource_root": "assets/courses/eco305/",
+      "outline": null
+    },
+    {
+      "slug": "eco306",
+      "code": "ECO 306",
+      "title": "Project Appraisal II",
+      "level": "3",
+      "level_name": "Third Year",
+      "role": "Graduate Assistant",
+      "period": "2025/2026 Academic Year \u00b7 Second Semester",
+      "page": "course-eco306.html",
+      "resource_root": "assets/courses/eco306/",
+      "outline": "assets/docs/course-outlines/ECO306_Project_Appraisal_II_Course_Outline.docx"
+    },
+    {
+      "slug": "eco324",
+      "code": "ECO 324",
+      "title": "Economics of Capital Markets",
+      "level": "3",
+      "level_name": "Third Year",
+      "role": "Graduate Assistant",
+      "period": "2025/2026 Academic Year \u00b7 Second Semester",
+      "page": "course-eco324.html",
+      "resource_root": "assets/courses/eco324/",
+      "outline": "assets/docs/course-outlines/ECO324_Economics_of_Capital_Markets_Course_Outline.docx"
+    },
+    {
+      "slug": "dis814",
+      "code": "DIS 814",
+      "title": "Data Analysis",
+      "level": "8",
+      "level_name": "Postgraduate",
+      "role": "Lecturer",
+      "period": "2025/2026 Academic Year \u00b7 Second Semester \u00b7 3 Credit Hours \u00b7 27 Contact Hours",
+      "page": "course-dis814.html",
+      "resource_root": "assets/courses/dis814/",
+      "outline": "assets/docs/course-outlines/DIS814_Data_Analysis_Course_Outline.docx"
+    },
+    {
+      "slug": "qrm",
+      "code": "POSTGRADUATE",
+      "title": "Quantitative Research Methods",
+      "level": "8",
+      "level_name": "Postgraduate",
+      "role": "Graduate Assistant",
+      "period": "2025/2026 Academic Year \u00b7 Second Semester \u00b7 21 Contact Hours",
+      "page": "course-qrm.html",
+      "resource_root": "assets/courses/qrm/",
+      "outline": "assets/docs/course-outlines/Quantitative_Research_Methods_Course_Outline.docx"
+    }
+  ]
+}
