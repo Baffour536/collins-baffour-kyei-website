@@ -91,8 +91,6 @@ Course levels follow the University of Cape Coast course-code convention used wi
 | `4` | Fourth Year |
 | `8` | Postgraduate |
 
-The Fourth Year category is already incorporated into the website architecture and will expand as relevant course materials are added.
-
 ---
 
 ## Current Course Pages
@@ -156,8 +154,6 @@ Course metadata is maintained in:
 assets/data/course-manifest.json
 ```
 
-The `qrm` resource slug is retained for SOC 802 to preserve the existing website structure and internal resource paths.
-
 This architecture allows the teaching-resource library to expand while maintaining consistent organisation across courses.
 
 ---
@@ -178,8 +174,6 @@ The course outlines are stored under:
 ```text
 assets/docs/course-outlines/
 ```
-
-Dedicated pages also exist for **ECF 206** and **ECO 305**. Detailed syllabus information for these courses will be incorporated from official course documentation rather than reconstructed or inferred.
 
 The SOC 802 page is stored as:
 
@@ -262,7 +256,7 @@ Selected educational writing includes contributions to materials in **microecono
 
 ## Collaboration
 
-I welcome serious academic and professional enquiries relating to:
+I welcome academic and professional enquiries relating to:
 
 - Research collaboration in economics and finance
 - Inflation, monetary economics and macroeconomic dynamics

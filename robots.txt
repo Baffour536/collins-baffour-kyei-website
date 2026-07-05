@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://collins-baffour-kyei.netlify.app/sitemap.xml
